@@ -1,0 +1,4 @@
+# MyonMyonGame
+2022年8月のゲームジャムunity1weekに投稿したジャンプゲーム
+
+Assets/Scripts で書いたコードが見れます
